@@ -1,0 +1,20 @@
+{
+    "plugins": [
+      "disqus",
+      "prism",
+      "highlight",
+      "splitter",
+      "theme-comscore",
+      "toggle-chapters"
+    ],
+    "pluginsConfig": {
+      "disqus": {
+        "shortName": "gitbookuse"
+      },
+      "prism": {
+        "css": [
+          "prismjs/themes/prism-okaidia.css"
+        ]
+      }
+    }
+  }
